@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Vincent State School</title>
+</head>
+<body>
+    <img src="https://www.nicepng.com/png/detail/352-3523960_vincent-de-paul-elementary-school-vincent-school-logo.png" width="200px" align="left">
+    <h1 style="font-family: Arial, Helvetica, sans-serif; color:#6297BC; font-size: 40px;"><center>Vincent State School</center></h1>
+    <h2 style="color:#666666; font-size: 12px; font-family: tahoma; font-weight: bold;"><center>280 Palmerston Street, Townsville, 4814</center></h2>
+    <br/>
+    <br/>
+    <br/>
+    <a href="file:///C:/Users/DELL/Desktop/HTML/11/home.txt/home.html" target="_blank">Home</a>
+    <a href="file:///C:/Users/DELL/Desktop/HTML/11/home.txt/information.html" target="_blank">Information Course</a>
+    <a href="file:///C:/Users/DELL/Desktop/HTML/11/home.txt/fee.html" target="_blank">Fee Structure</a>
+    <a href="file:///C:/Users/DELL/Desktop/HTML/11/home.txt/admission.html" target="_blank">Admission Process</a>
+    <br/>
+    <br/>
+    <h1>Welcome to Vincent State School</h1>
+    <h2>Welcome to vincent State School</h2>
+    Our purpose in the community is to provide high quality learning opportunities for every student. We aim to promote and maintain a positive, safe and orderly learning environment forr all students and staff.
+    <h2>We plan to do this through:</h2>
+    <ul style="list-style-type: circle;">
+        <li>The delivery of high quality curriculum</li>
+        <li>Excellence in teaching ang learning</li>
+        <li>Recognising diversity</li>
+        <li>School/Home/Community Partnerships</li>
+        <li>Valuing Positive Behaviour</li>
+    </ul>
+    This information guide is an introduction to what we hope will be a very happy association for you with Vincent State School.
+</body>
+</html>
